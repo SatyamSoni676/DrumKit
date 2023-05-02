@@ -11,8 +11,6 @@
   </p>
 <hr>
 
-<h2>📍 Access the Site <a href="https://online-drum-kit.netlify.app">here!</a></h2>
-
 <hr>
 
 ***
